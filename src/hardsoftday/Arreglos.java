@@ -1,6 +1,6 @@
 package hardsoftday;
 
-public class Arreglo {
+public class Arreglos {
 
     public static void main(String[] args) {
 
@@ -48,7 +48,7 @@ public class Arreglo {
 
          */
 
-        int a[] = new int[5];
+        int[] a = new int[5];
 
         a[0] = 19;
         a[1] = 20;
