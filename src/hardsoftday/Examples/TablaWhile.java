@@ -1,4 +1,4 @@
-package hardsoftday;
+package hardsoftday.Examples;
 
 import java.util.Scanner;
 

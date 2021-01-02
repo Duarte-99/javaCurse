@@ -1,6 +1,6 @@
 package hardsoftday;
 
-public class OperadoresAritmetcos {
+public class OperadoresAritmetcos { 
 
     public static void main (String ...args){
         /**
