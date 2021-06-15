@@ -10,6 +10,11 @@ public class Usuario {
     String email;
     String photo;
 
+    // Constructor
+    public Usuario(String id, String name, String lastName){
+
+    }
+
 
     // Metodos
     public boolean paymet(String id, int pago) {
@@ -25,6 +30,8 @@ public class Usuario {
 
         return true;
     }
+
+
 }
 
 
